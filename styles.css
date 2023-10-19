@@ -1,7 +1,63 @@
-p.serif {
-  font-family: "Times New Roman", Times, serif;
-}
+/* Web safe fonts */
 
-p.sansserif {
+.estil1{
   font-family: Arial, Helvetica, sans-serif;
+  font-weight:900;
+  font-size: 2em;
+
+}
+.estil2{
+  font-family: Verdana 'Courier New', Courier, monospace;
+  font-size: 12px;
+
+}
+.estil3{
+  font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.1em;
+  word-spacing:2%;
+}
+.estil4{
+  font-family:  'Times New Roman', Times, serif;
+  text-transform: uppercase;
+
+}
+.estil5{
+  font-family:  'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-size: larger;
+
+}
+.estil6{
+  font-family: 'Dancing Script', cursive;
+}
+.estil7{
+  font-family: 'Nosifer', sans-serif;
+  font-style: italic;
+}
+.estil8{
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-variant: small-caps;
+
+}
+.estil9{
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-weight: bold;
+}
+.estil10{
+  font-family: 'Bungee Shade', sans-serif;
+}
+.estil11{
+  font-family: 'Mukta Vaani', sans-serif;
+}
+.estil12{
+  font-family: 'Silkscreen', sans-serif;
+}
+.estil13{
+  font-family: 'BhuTuka Expanded One', serif;
+  
+}
+.estil14{
+  font-family: 'Rampart One', sans-serif;
+}
+.estil15{
+  font-family: 'Carme', sans-serif;
 }
